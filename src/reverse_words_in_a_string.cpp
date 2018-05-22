@@ -1,7 +1,15 @@
 //
-// Created by Zhang,Weijian(BBTD) on 18/5/22.
-// debug: http://cpp.sh/
+// Created by Zhang,Weijian on 18/5/22.
 //
+
+/*
+Given an input string, reverse the string word by word.
+
+For example,
+        Given s = "the sky is blue",
+        return "blue is sky the".
+debug: http://cpp.sh/
+*/
 
 // Example program
 #include <iostream>
