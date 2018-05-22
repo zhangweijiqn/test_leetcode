@@ -8,7 +8,12 @@ Given an input string, reverse the string word by word.
 For example,
         Given s = "the sky is blue",
         return "blue is sky the".
-debug: http://cpp.sh/
+debug:
+        http://cpp.sh/
+思路1：
+    先将整个句子字符反转，然后将每个单词反转。（或者先将每个单词反转，然后将整个句子反转）
+思路2：
+    利用数组/栈，逆序将单词输出
 */
 
 // Example program
