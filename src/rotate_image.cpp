@@ -8,9 +8,11 @@
   Follow up:
        Could you do this in-place?
 
-思路：
+思路1：
     旋转 --> 坐标（下标）转换： (x,y) --> (x',y')
-    
+思路2：
+    先按对角线互换，再按中轴线互换
+
  */
 
 #include "stdio.h"
